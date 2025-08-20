@@ -19,6 +19,7 @@ import { errorHandler, notFound } from "./middleware/error";
 const allowedOrigins = [
   "http://localhost:5173",
   "https://fighter-management-system-2.onrender.com",
+  "https://fighter-management-system.vercel.app/",
 ];
 
 const app = express();
