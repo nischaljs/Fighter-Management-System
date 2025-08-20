@@ -20,6 +20,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://fighter-management-system-2.onrender.com",
   "https://fighter-management-system.vercel.app/",
+  "https://fighter-management-system.vercel.app"
 ];
 
 const app = express();
